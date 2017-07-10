@@ -1,0 +1,6 @@
+S:\Luis Vega\practices\DesingPatters\Observer\bin\Debug\Observer.exe.config
+S:\Luis Vega\practices\DesingPatters\Observer\bin\Debug\Observer.exe
+S:\Luis Vega\practices\DesingPatters\Observer\bin\Debug\Observer.pdb
+S:\Luis Vega\practices\DesingPatters\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\Observer\obj\Debug\Observer.exe
+S:\Luis Vega\practices\DesingPatters\Observer\obj\Debug\Observer.pdb
