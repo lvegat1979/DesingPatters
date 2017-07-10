@@ -1,0 +1,6 @@
+S:\Luis Vega\practices\DesingPatters\Facade\bin\Debug\Facade.exe.config
+S:\Luis Vega\practices\DesingPatters\Facade\bin\Debug\Facade.exe
+S:\Luis Vega\practices\DesingPatters\Facade\bin\Debug\Facade.pdb
+S:\Luis Vega\practices\DesingPatters\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\Facade\obj\Debug\Facade.exe
+S:\Luis Vega\practices\DesingPatters\Facade\obj\Debug\Facade.pdb

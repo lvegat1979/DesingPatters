@@ -4,3 +4,9 @@ S:\Patterns\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
 S:\Patterns\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
 S:\Patterns\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
 S:\Patterns\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\bin\Debug\FactoryMethod.exe
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\bin\Debug\FactoryMethod.pdb
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\obj\Debug\FactoryMethod.exe
+S:\Luis Vega\practices\DesingPatters\FactoryMethod\obj\Debug\FactoryMethod.pdb

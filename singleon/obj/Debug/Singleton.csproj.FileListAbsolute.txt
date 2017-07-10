@@ -3,3 +3,9 @@ S:\Patterns\DesingPatterns\singleon\bin\Debug\singleon.exe
 S:\Patterns\DesingPatterns\singleon\bin\Debug\singleon.pdb
 S:\Patterns\DesingPatterns\singleon\obj\Debug\singleon.exe
 S:\Patterns\DesingPatterns\singleon\obj\Debug\singleon.pdb
+S:\Luis Vega\practices\DesingPatters\singleon\bin\Debug\singleon.exe.config
+S:\Luis Vega\practices\DesingPatters\singleon\bin\Debug\singleon.exe
+S:\Luis Vega\practices\DesingPatters\singleon\bin\Debug\singleon.pdb
+S:\Luis Vega\practices\DesingPatters\singleon\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\singleon\obj\Debug\singleon.exe
+S:\Luis Vega\practices\DesingPatters\singleon\obj\Debug\singleon.pdb

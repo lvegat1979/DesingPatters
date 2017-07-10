@@ -4,3 +4,9 @@ S:\Patterns\DesingPatterns\Abstract factory\bin\Debug\Abstract factory.pdb
 S:\Patterns\DesingPatterns\Abstract factory\obj\Debug\Abstract factory.csprojResolveAssemblyReference.cache
 S:\Patterns\DesingPatterns\Abstract factory\obj\Debug\Abstract factory.exe
 S:\Patterns\DesingPatterns\Abstract factory\obj\Debug\Abstract factory.pdb
+S:\Luis Vega\practices\DesingPatters\Abstract factory\bin\Debug\Abstract factory.exe.config
+S:\Luis Vega\practices\DesingPatters\Abstract factory\bin\Debug\Abstract factory.exe
+S:\Luis Vega\practices\DesingPatters\Abstract factory\bin\Debug\Abstract factory.pdb
+S:\Luis Vega\practices\DesingPatters\Abstract factory\obj\Debug\Abstract factory.csprojResolveAssemblyReference.cache
+S:\Luis Vega\practices\DesingPatters\Abstract factory\obj\Debug\Abstract factory.exe
+S:\Luis Vega\practices\DesingPatters\Abstract factory\obj\Debug\Abstract factory.pdb
