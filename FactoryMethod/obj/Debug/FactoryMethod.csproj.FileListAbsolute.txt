@@ -1,0 +1,5 @@
+S:\Patterns\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+S:\Patterns\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+S:\Patterns\DesingPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+S:\Patterns\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+S:\Patterns\DesingPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
